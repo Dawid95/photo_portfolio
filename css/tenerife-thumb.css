@@ -1,42 +1,14 @@
-.tenerife-1,.tenerife-2,.tenerife-3,.tenerife-4,.tenerife-5,.tenerife-6,.tenerife-7,.tenerife-8,.tenerife-9,.tenerife-10,
-.tenerife-11,.tenerife-12,.tenerife-13,.tenerife-14,.tenerife-15,.tenerife-16,.tenerife-17,.tenerife-18,.tenerife-19,
-.tenerife-20,.tenerife-21,.tenerife-22,.tenerife-23,.tenerife-24,.tenerife-25,.tenerife-26,.tenerife-27,.tenerife-28,
-.tenerife-29,.tenerife-30,.tenerife-31,.tenerife-32,.tenerife-33,.tenerife-34,.tenerife-35,.tenerife-36{
-    
-    filter:opacity(69%);
-}
-
-
 
 .tenerife-1{
 	background-image:url(../img/tenerife-thumb/1.jpg); 
 	
 }
-
-.tenerife-1:hover {
-        background-image: url(../img/tenerife-thumb/1.jpg);
-       
-    }
-
 .tenerife-2{
 	background-image:url(../img/tenerife-thumb/2.jpg); 
 }
-
-.tenerife-2:hover{
-	
-	background-image:url(../img/tenerife-thumb/2.jpg);
-	filter: opacity(100%);
-}
-
 .tenerife-3{
 	background-image:url(../img/tenerife-thumb/3.jpg); 
 	
-}
-
-.tenerife-3:hover{
-	
-	background-image:url(../img/tenerife-thumb/3.jpg);
-	filter: opacity(100%);
 }
 
 .tenerife-4{
@@ -44,20 +16,9 @@
 	
 }
 
-.tenerife-4:hover{
-	
-	background-image:url(../img/tenerife-thumb/4.jpg);
-	filter: opacity(100%);
-}
 .tenerife-5{
 	background-image:url(../img/tenerife-thumb/5.jpg); 
 	
-}
-
-.tenerife-5:hover{
-	
-	background-image:url(../img/tenerife-thumb/5.jpg);
-	filter: opacity(100%);
 }
 
 .tenerife-6{
@@ -65,71 +26,38 @@
 	
 }
 
-.tenerife-6:hover{
-	
-	background-image:url(../img/tenerife-thumb/6.jpg);
-	filter: opacity(100%);
-}
 
 .tenerife-7{
 	background-image:url(../img/tenerife-thumb/7.jpg); 
 	
 }
 
-.tenerife-7:hover{
-	
-	background-image:url(../img/tenerife-thumb/7.jpg);
-	filter: opacity(100%);
-}
 .tenerife-8{
 	background-image:url(../img/tenerife-thumb/8.jpg); 
 	
 }
 
-.tenerife-8:hover{
-	
-	background-image:url(../img/tenerife-thumb/8.jpg);
-	filter: opacity(100%);
-}
+
 .tenerife-9{
 	background-image:url(../img/tenerife-thumb/9.jpg); 
 	
 }
 
-.tenerife-9:hover{
-	
-	background-image:url(../img/tenerife-thumb/9.jpg);
-	filter: opacity(100%);
-}
+
 .tenerife-10{
 	background-image:url(../img/tenerife-thumb/10.jpg); 
 	
 }
 
-.tenerife-10:hover{
-	
-	background-image:url(../img/tenerife-thumb/10.jpg);
-	filter: opacity(100%);
-}
+
 .tenerife-11{
 	background-image:url(../img/tenerife-thumb/11.jpg); 
 	
 }
 
-.tenerife-11:hover{
-	
-	background-image:url(../img/tenerife-thumb/11.jpg);
-	filter: opacity(100%);
-}
 .tenerife-12{
 	background-image:url(../img/tenerife-thumb/12.jpg); 
 	
-}
-
-.tenerife-12:hover{
-	
-	background-image:url(../img/tenerife-thumb/12.jpg);
-	filter: opacity(100%);
 }
 
 .tenerife-13{
@@ -137,241 +65,121 @@
 	
 }
 
-.tenerife-13:hover{
-	
-	background-image:url(../img/tenerife-thumb/13.jpg);
-	filter: opacity(100%);
-}
 
 .tenerife-14{
 	background-image:url(../img/tenerife-thumb/14.jpg); 
 	
 }
 
-.tenerife-14:hover{
-	
-	background-image:url(../img/tenerife-thumb/14.jpg);
-	filter: opacity(100%);
-}
 .tenerife-15{
 	background-image:url(../img/tenerife-thumb/15.jpg); 
 	
 }
 
-.tenerife-15:hover{
-	
-	background-image:url(../img/tenerife-thumb/15.jpg);
-	filter: opacity(100%);
-}
 
 .tenerife-16{
 	background-image:url(../img/tenerife-thumb/16.jpg); 
 	
 }
 
-.tenerife-16:hover{
-	
-	background-image:url(../img/tenerife-thumb/16.jpg);
-	filter: opacity(100%);
-}
 
 .tenerife-17{
 	background-image:url(../img/tenerife-thumb/17.jpg); 
 	
 }
 
-.tenerife-17:hover{
-	
-	background-image:url(../img/tenerife-thumb/17.jpg);
-	filter: opacity(100%);
-}
 .tenerife-18{
 	background-image:url(../img/tenerife-thumb/18.jpg); 
 	
 }
 
-.tenerife-18:hover{
-	
-	background-image:url(../img/tenerife-thumb/18.jpg);
-	filter: opacity(100%);
-}
 .tenerife-19{
 	background-image:url(../img/tenerife-thumb/19.jpg); 
 	
 }
 
-.tenerife-19:hover{
-	
-	background-image:url(../img/tenerife-thumb/19.jpg);
-	filter: opacity(100%);
-}
 .tenerife-20{
 	background-image:url(../img/tenerife-thumb/20.jpg); 
 	
 }
 
-.tenerife-20:hover{
-	
-	background-image:url(../img/tenerife-thumb/20.jpg);
-	filter: opacity(100%);
-}
 .tenerife-21{
 	background-image:url(../img/tenerife-thumb/21.jpg); 
 	
 }
 
-.tenerife-22:hover{
-	
-	background-image:url(../img/tenerife-thumb/21.jpg);
-	filter: opacity(100%);
-}
 .tenerife-22{
 	background-image:url(../img/tenerife-thumb/22.jpg); 
 	
 }
 
-.tenerife-22:hover{
-	
-	background-image:url(../img/tenerife-thumb/22.jpg);
-	filter: opacity(100%);
-}
 .tenerife-23{
 	background-image:url(../img/tenerife-thumb/23.jpg); 
 	
 }
 
-.tenerife-23:hover{
-	
-	background-image:url(../img/tenerife-thumb/23.jpg);
-	filter: opacity(100%);
-}
 .tenerife-24{
 	background-image:url(../img/tenerife-thumb/24.jpg); 
 	
 }
 
-.tenerife-24:hover{
-	
-	background-image:url(../img/tenerife-thumb/24.jpg);
-	filter: opacity(100%);
-}
 .tenerife-25{
 	background-image:url(../img/tenerife-thumb/25.jpg); 
 	
 }
 
-.tenerife-25:hover{
-	
-	background-image:url(../img/tenerife-thumb/25.jpg);
-	filter: opacity(100%);
-}
 .tenerife-26{
 	background-image:url(../img/tenerife-thumb/26.jpg); 
 	
 }
 
-.tenerife-26:hover{
-	
-	background-image:url(../img/tenerife-thumb/26.jpg);
-	filter: opacity(100%);
-}
 .tenerife-27{
 	background-image:url(../img/tenerife-thumb/27.jpg); 
 	
 }
 
-.tenerife-27:hover{
-	
-	background-image:url(../img/tenerife-thumb/27.jpg);
-	filter: opacity(100%);
-}
 .tenerife-28{
 	background-image:url(../img/tenerife-thumb/28.jpg); 
 	
 }
 
-.tenerife-28:hover{
-	
-	background-image:url(../img/tenerife-thumb/28.jpg);
-	filter: opacity(100%);
-}
 .tenerife-29{
 	background-image:url(../img/tenerife-thumb/29.jpg); 
 	
 }
 
-.tenerife-29:hover{
-	
-	background-image:url(../img/tenerife-thumb/29.jpg);
-	filter: opacity(100%);
-}
 .tenerife-30{
 	background-image:url(../img/tenerife-thumb/30.jpg); 
 	
 }
 
-.tenerife-30:hover{
-	
-	background-image:url(../img/tenerife-thumb/30.jpg);
-	filter: opacity(100%);
-}
 .tenerife-31{
 	background-image:url(../img/tenerife-thumb/31.jpg); 
 	
 }
 
-.tenerife-31:hover{
-	
-	background-image:url(../img/tenerife-thumb/31.jpg);
-	filter: opacity(100%);
-}
 .tenerife-32{
 	background-image:url(../img/tenerife-thumb/32.jpg); 
 	
 }
 
-.tenerife-32:hover{
-	
-	background-image:url(../img/tenerife-thumb/32.jpg);
-	filter: opacity(100%);
-}
 .tenerife-33{
 	background-image:url(../img/tenerife-thumb/33.jpg); 
 	
 }
 
-.tenerife-33:hover{
-	
-	background-image:url(../img/tenerife-thumb/33.jpg);
-	filter: opacity(100%);
-}
 .tenerife-34{
 	background-image:url(../img/tenerife-thumb/34.jpg); 
 	
 }
 
-.tenerife-34:hover{
-	
-	background-image:url(../img/tenerife-thumb/34.jpg);
-	filter: opacity(100%);
-}
 .tenerife-35{
 	background-image:url(../img/tenerife-thumb/35.jpg); 
 	
 }
 
-.tenerife-35:hover{
-	
-	background-image:url(../img/tenerife-thumb/35.jpg);
-	filter: opacity(100%);
-}
+
 .tenerife-36{
 	background-image:url(../img/tenerife-thumb/36.jpg); 
 	
-}
-
-.tenerife-36:hover{
-	
-	background-image:url(../img/tenerife-thumb/36.jpg);
-	filter: opacity(100%);
 }
