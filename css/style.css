@@ -6,7 +6,7 @@ body{
 }
 
 .fill-screen{
-	height:1000px;
+	height:100%;
 	background-size:cover;
 	background-position:center;
 	background-repeat:no-repeat;
