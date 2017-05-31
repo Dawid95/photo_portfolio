@@ -2,7 +2,7 @@
 	$(function(){
 		     $(".nav-hid").hide();
 		     $(".hamburger-icon,.nav-hid").on("click", function () {
-		         $('.nav-hidden').removeClass("hidden");
+		         $('.nav-hidden').removeClass("nav-hidden");
 		         $(".nav-hid").fadeToggle("slow");
 		     });
 	});
