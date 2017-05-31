@@ -203,7 +203,12 @@ z-index:100;
 opacity:.8
 }
 
+.nav-hidden
+{
+    display:none;
+}
 .menu-hid {
+    
 color:#fff;
 line-height:60px
 }

@@ -1,10 +1,11 @@
 
 	$(function(){
 		     $(".nav-hid").hide();
-		     $(".hamburger-icon,.nav-hid").on("click",function() {
+		     $(".hamburger-icon,.nav-hid").on("click", function () {
+		         $('.nav-hidden').removeClass("hidden");
 		         $(".nav-hid").fadeToggle("slow");
 		     });
-		 });
+	});
 
 		
 
